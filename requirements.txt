@@ -1,0 +1,35 @@
+# Core packages
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.1
+
+# Image processing and augmentation
+Pillow==9.5.0
+albumentations==1.3.0
+
+# For handling JSON files
+json5==0.9.10
+
+# Utility packages
+numpy==1.24.3
+scipy==1.10.1
+matplotlib==3.7.1
+
+# Logging and tracking
+tensorboard==2.13.0
+
+# Visualization tools
+seaborn==0.12.2
+opencv-python==4.7.0.72
+
+# Data loading and preparation
+pandas==2.0.3
+
+# YAML configuration file support
+PyYAML==6.0
+
+# Jupyter Notebook for exploratory analysis
+jupyterlab==4.0.2
+
+# Environment management and versioning
+virtualenv==20.21.0

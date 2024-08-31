@@ -1,0 +1,7 @@
+learning_rate: 0.001
+epochs: 50
+num_classes: 5
+batch_size: 16
+image_size: 224
+log_interval: 10
+save_model: True
